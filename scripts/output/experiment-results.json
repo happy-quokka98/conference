@@ -1,0 +1,583 @@
+{
+  "generatedAt": "2026-11-18T07:02:54.275Z",
+  "params": {
+    "corridor1": "თამარ მეფის გამზირი (L=600, 4.5 კმ, vMax=4)",
+    "corridor2": "ჭავჭავაძე-ბაგრატიონი (L=400, 3.0 კმ, vMax=3)",
+    "pHuman": 0.3,
+    "pAv": 0.02
+  },
+  "fundamentalData": {
+    "0%": [
+      {
+        "density": 0.05,
+        "avShare": 0,
+        "avgSpeedKmh": 99.4407428571429,
+        "flowPerHour": 662.9382857142857,
+        "jamPercent": 0.00761904761904762,
+        "stoppedPercent": 0,
+        "speedStd": 0.46619722403935987,
+        "travelTime5kmMin": 3.0168720725566343
+      },
+      {
+        "density": 0.1,
+        "avShare": 0,
+        "avgSpeedKmh": 98.40375000000002,
+        "flowPerHour": 1312.05,
+        "jamPercent": 0.2030952380952381,
+        "stoppedPercent": 0.0369047619047619,
+        "speedStd": 0.5149515709203514,
+        "travelTime5kmMin": 3.0486643039518304
+      },
+      {
+        "density": 0.15,
+        "avShare": 0,
+        "avgSpeedKmh": 80.79132857142856,
+        "flowPerHour": 1615.8265714285715,
+        "jamPercent": 16.202380952380977,
+        "stoppedPercent": 8.695873015873055,
+        "speedStd": 1.2642729400310624,
+        "travelTime5kmMin": 3.7132697939824877
+      },
+      {
+        "density": 0.2,
+        "avShare": 0,
+        "avgSpeedKmh": 58.776364285714294,
+        "flowPerHour": 1567.369714285714,
+        "jamPercent": 38.81511904761907,
+        "stoppedPercent": 22.4688095238095,
+        "speedStd": 1.5456273329402048,
+        "travelTime5kmMin": 5.104092497822557
+      },
+      {
+        "density": 0.25,
+        "avShare": 0,
+        "avgSpeedKmh": 44.92774285714285,
+        "flowPerHour": 1497.5914285714284,
+        "jamPercent": 53.84380952380952,
+        "stoppedPercent": 32.67019047619048,
+        "speedStd": 1.5166520141707402,
+        "travelTime5kmMin": 6.677388645005219
+      },
+      {
+        "density": 0.3,
+        "avShare": 0,
+        "avgSpeedKmh": 35.35118571428572,
+        "flowPerHour": 1414.0474285714286,
+        "jamPercent": 64.36912698412704,
+        "stoppedPercent": 40.14198412698412,
+        "speedStd": 1.3988117727952247,
+        "travelTime5kmMin": 8.486278294161075
+      },
+      {
+        "density": 0.35,
+        "avShare": 0,
+        "avgSpeedKmh": 28.621983673469384,
+        "flowPerHour": 1335.6925714285715,
+        "jamPercent": 71.91945578231301,
+        "stoppedPercent": 45.862789115646194,
+        "speedStd": 1.262424024024524,
+        "travelTime5kmMin": 10.481453816147601
+      },
+      {
+        "density": 0.4,
+        "avShare": 0,
+        "avgSpeedKmh": 23.32423928571429,
+        "flowPerHour": 1243.9594285714286,
+        "jamPercent": 78.16779761904769,
+        "stoppedPercent": 50.963511904761894,
+        "speedStd": 1.122985546760973,
+        "travelTime5kmMin": 12.862155816749187
+      },
+      {
+        "density": 0.5,
+        "avShare": 0,
+        "avgSpeedKmh": 16.05834,
+        "flowPerHour": 1070.556,
+        "jamPercent": 86.91614285714306,
+        "stoppedPercent": 59.345380952380935,
+        "speedStd": 0.8685360942739111,
+        "travelTime5kmMin": 18.681881190708378
+      },
+      {
+        "density": 0.6,
+        "avShare": 0,
+        "avgSpeedKmh": 10.997357142857144,
+        "flowPerHour": 879.7885714285715,
+        "jamPercent": 93.14777777777779,
+        "stoppedPercent": 67.71289682539685,
+        "speedStd": 0.6667875628301315,
+        "travelTime5kmMin": 27.279281385787492
+      },
+      {
+        "density": 0.7,
+        "avShare": 0,
+        "avgSpeedKmh": 7.270135714285691,
+        "flowPerHour": 678.546,
+        "jamPercent": 97.09724489795921,
+        "stoppedPercent": 76.33629251700678,
+        "speedStd": 0.5184959683131335,
+        "travelTime5kmMin": 41.26470423523253
+      }
+    ],
+    "10%": [
+      {
+        "density": 0.05,
+        "avShare": 0.1,
+        "avgSpeedKmh": 99.50850000000001,
+        "flowPerHour": 663.3900000000001,
+        "jamPercent": 0.010476190476190477,
+        "stoppedPercent": 0,
+        "speedStd": 0.4644769916351123,
+        "travelTime5kmMin": 3.014817829632644
+      },
+      {
+        "density": 0.1,
+        "avShare": 0.1,
+        "avgSpeedKmh": 98.5708928571429,
+        "flowPerHour": 1314.2785714285715,
+        "jamPercent": 0.1440476190476191,
+        "stoppedPercent": 0.019523809523809537,
+        "speedStd": 0.5083043056228816,
+        "travelTime5kmMin": 3.0434948016021814
+      },
+      {
+        "density": 0.15,
+        "avShare": 0.1,
+        "avgSpeedKmh": 83.97818571428574,
+        "flowPerHour": 1679.5637142857145,
+        "jamPercent": 12.849523809523836,
+        "stoppedPercent": 6.361428571428604,
+        "speedStd": 1.1628250513293248,
+        "travelTime5kmMin": 3.57235629048564
+      },
+      {
+        "density": 0.2,
+        "avShare": 0.1,
+        "avgSpeedKmh": 60.98679642857144,
+        "flowPerHour": 1626.3145714285715,
+        "jamPercent": 36.66607142857143,
+        "stoppedPercent": 21.1215476190476,
+        "speedStd": 1.542042285219612,
+        "travelTime5kmMin": 4.919097535338884
+      },
+      {
+        "density": 0.25,
+        "avShare": 0.1,
+        "avgSpeedKmh": 46.59636857142856,
+        "flowPerHour": 1553.2122857142854,
+        "jamPercent": 52.114857142857105,
+        "stoppedPercent": 31.43266666666664,
+        "speedStd": 1.5304515520113766,
+        "travelTime5kmMin": 6.438269959602616
+      },
+      {
+        "density": 0.3,
+        "avShare": 0.1,
+        "avgSpeedKmh": 36.94371428571428,
+        "flowPerHour": 1477.7485714285715,
+        "jamPercent": 62.527857142857144,
+        "stoppedPercent": 38.447301587301574,
+        "speedStd": 1.4164845428674053,
+        "travelTime5kmMin": 8.120461242198559
+      },
+      {
+        "density": 0.35,
+        "avShare": 0.1,
+        "avgSpeedKmh": 29.72771632653062,
+        "flowPerHour": 1387.2934285714286,
+        "jamPercent": 70.68013605442182,
+        "stoppedPercent": 44.743333333333254,
+        "speedStd": 1.2856548375557497,
+        "travelTime5kmMin": 10.091592529502973
+      },
+      {
+        "density": 0.4,
+        "avShare": 0.1,
+        "avgSpeedKmh": 24.38766964285714,
+        "flowPerHour": 1300.6757142857145,
+        "jamPercent": 76.85196428571417,
+        "stoppedPercent": 49.376071428571436,
+        "speedStd": 1.1419449681017757,
+        "travelTime5kmMin": 12.301298336139569
+      },
+      {
+        "density": 0.5,
+        "avShare": 0.1,
+        "avgSpeedKmh": 16.670635714285726,
+        "flowPerHour": 1111.3757142857141,
+        "jamPercent": 86.26685714285752,
+        "stoppedPercent": 58.218285714285635,
+        "speedStd": 0.8860448102098083,
+        "travelTime5kmMin": 17.995714449144742
+      },
+      {
+        "density": 0.6,
+        "avShare": 0.1,
+        "avgSpeedKmh": 11.381764285714286,
+        "flowPerHour": 910.5411428571427,
+        "jamPercent": 92.80130952380951,
+        "stoppedPercent": 66.95365079365084,
+        "speedStd": 0.6842786910415135,
+        "travelTime5kmMin": 26.357952288340936
+      },
+      {
+        "density": 0.7,
+        "avShare": 0.1,
+        "avgSpeedKmh": 7.515055102040793,
+        "flowPerHour": 701.4051428571429,
+        "jamPercent": 96.89714285714274,
+        "stoppedPercent": 75.67105442176869,
+        "speedStd": 0.5279755645523819,
+        "travelTime5kmMin": 39.919866977227066
+      }
+    ],
+    "20%": [
+      {
+        "density": 0.05,
+        "avShare": 0.2,
+        "avgSpeedKmh": 99.57651428571434,
+        "flowPerHour": 663.8434285714286,
+        "jamPercent": 0.00761904761904762,
+        "stoppedPercent": 0,
+        "speedStd": 0.46336471038590776,
+        "travelTime5kmMin": 3.012758602286596
+      },
+      {
+        "density": 0.1,
+        "avShare": 0.2,
+        "avgSpeedKmh": 98.73038571428572,
+        "flowPerHour": 1316.405142857143,
+        "jamPercent": 0.12666666666666665,
+        "stoppedPercent": 0.021190476190476204,
+        "speedStd": 0.5037139121131535,
+        "travelTime5kmMin": 3.0385782232044063
+      },
+      {
+        "density": 0.15,
+        "avShare": 0.2,
+        "avgSpeedKmh": 88.03315714285716,
+        "flowPerHour": 1760.663142857143,
+        "jamPercent": 8.847619047619089,
+        "stoppedPercent": 4.1700000000000275,
+        "speedStd": 1.0248685267237567,
+        "travelTime5kmMin": 3.4078068961354
+      },
+      {
+        "density": 0.2,
+        "avShare": 0.2,
+        "avgSpeedKmh": 64.28481428571428,
+        "flowPerHour": 1714.2617142857139,
+        "jamPercent": 33.095952380952355,
+        "stoppedPercent": 18.599285714285703,
+        "speedStd": 1.5161388819258694,
+        "travelTime5kmMin": 4.66673200091468
+      },
+      {
+        "density": 0.25,
+        "avShare": 0.2,
+        "avgSpeedKmh": 48.68159142857143,
+        "flowPerHour": 1622.7197142857144,
+        "jamPercent": 49.754285714285714,
+        "stoppedPercent": 29.244190476190457,
+        "speedStd": 1.5311421238708216,
+        "travelTime5kmMin": 6.162493690046639
+      },
+      {
+        "density": 0.3,
+        "avShare": 0.2,
+        "avgSpeedKmh": 38.55587142857142,
+        "flowPerHour": 1542.234857142857,
+        "jamPercent": 60.57611111111109,
+        "stoppedPercent": 36.55349206349207,
+        "speedStd": 1.4273453211793499,
+        "travelTime5kmMin": 7.780916080596954
+      },
+      {
+        "density": 0.35,
+        "avShare": 0.2,
+        "avgSpeedKmh": 30.928481632653064,
+        "flowPerHour": 1443.3291428571426,
+        "jamPercent": 69.24836734693886,
+        "stoppedPercent": 43.228979591836655,
+        "speedStd": 1.302638209952425,
+        "travelTime5kmMin": 9.699797214851696
+      },
+      {
+        "density": 0.4,
+        "avShare": 0.2,
+        "avgSpeedKmh": 25.35075,
+        "flowPerHour": 1352.04,
+        "jamPercent": 75.69422619047614,
+        "stoppedPercent": 47.9847619047619,
+        "speedStd": 1.1591550565595043,
+        "travelTime5kmMin": 11.833969409189077
+      },
+      {
+        "density": 0.5,
+        "avShare": 0.2,
+        "avgSpeedKmh": 17.27571857142857,
+        "flowPerHour": 1151.7145714285712,
+        "jamPercent": 85.50995238095283,
+        "stoppedPercent": 57.806952380952325,
+        "speedStd": 0.918941076736469,
+        "travelTime5kmMin": 17.365413702452567
+      },
+      {
+        "density": 0.6,
+        "avShare": 0.2,
+        "avgSpeedKmh": 11.812275000000003,
+        "flowPerHour": 944.982,
+        "jamPercent": 92.2103174603175,
+        "stoppedPercent": 66.08349206349213,
+        "speedStd": 0.6985213018598466,
+        "travelTime5kmMin": 25.397309155095012
+      },
+      {
+        "density": 0.7,
+        "avShare": 0.2,
+        "avgSpeedKmh": 7.773116326530603,
+        "flowPerHour": 725.4908571428572,
+        "jamPercent": 96.65676870748288,
+        "stoppedPercent": 74.97231292517007,
+        "speedStd": 0.5369124969538257,
+        "travelTime5kmMin": 38.5945594273513
+      }
+    ],
+    "50%": [
+      {
+        "density": 0.05,
+        "avShare": 0.5,
+        "avgSpeedKmh": 99.64157142857144,
+        "flowPerHour": 664.277142857143,
+        "jamPercent": 0.020952380952380955,
+        "stoppedPercent": 0,
+        "speedStd": 0.46802748949062717,
+        "travelTime5kmMin": 3.010791537095102
+      },
+      {
+        "density": 0.1,
+        "avShare": 0.5,
+        "avgSpeedKmh": 99.14972142857145,
+        "flowPerHour": 1321.996285714286,
+        "jamPercent": 0.10214285714285717,
+        "stoppedPercent": 0.012142857142857148,
+        "speedStd": 0.49498226068020756,
+        "travelTime5kmMin": 3.02572710923977
+      },
+      {
+        "density": 0.15,
+        "avShare": 0.5,
+        "avgSpeedKmh": 97.05917142857146,
+        "flowPerHour": 1941.1834285714285,
+        "jamPercent": 0.9434920634920612,
+        "stoppedPercent": 0.23920634920634892,
+        "speedStd": 0.5934064619789008,
+        "travelTime5kmMin": 3.0908980118460865
+      },
+      {
+        "density": 0.2,
+        "avShare": 0.5,
+        "avgSpeedKmh": 73.98369642857142,
+        "flowPerHour": 1972.8985714285714,
+        "jamPercent": 22.719047619047615,
+        "stoppedPercent": 11.413214285714295,
+        "speedStd": 1.3820602436772151,
+        "travelTime5kmMin": 4.054947434123396
+      },
+      {
+        "density": 0.25,
+        "avShare": 0.5,
+        "avgSpeedKmh": 56.04639428571427,
+        "flowPerHour": 1868.2131428571424,
+        "jamPercent": 41.59533333333337,
+        "stoppedPercent": 22.785047619047617,
+        "speedStd": 1.526097910345744,
+        "travelTime5kmMin": 5.352708302172926
+      },
+      {
+        "density": 0.3,
+        "avShare": 0.5,
+        "avgSpeedKmh": 44.335542857142855,
+        "flowPerHour": 1773.4217142857142,
+        "jamPercent": 54.15230158730161,
+        "stoppedPercent": 30.598174603174634,
+        "speedStd": 1.4670495481118793,
+        "travelTime5kmMin": 6.76658005444197
+      },
+      {
+        "density": 0.35,
+        "avShare": 0.5,
+        "avgSpeedKmh": 35.519087755102035,
+        "flowPerHour": 1657.5574285714288,
+        "jamPercent": 64.09122448979589,
+        "stoppedPercent": 37.99857142857138,
+        "speedStd": 1.3654916902982488,
+        "travelTime5kmMin": 8.446162865117712
+      },
+      {
+        "density": 0.4,
+        "avShare": 0.5,
+        "avgSpeedKmh": 28.939323214285725,
+        "flowPerHour": 1543.4305714285713,
+        "jamPercent": 71.63476190476187,
+        "stoppedPercent": 43.4167261904762,
+        "speedStd": 1.2292341987466886,
+        "travelTime5kmMin": 10.366517481373123
+      },
+      {
+        "density": 0.5,
+        "avShare": 0.5,
+        "avgSpeedKmh": 19.64635714285714,
+        "flowPerHour": 1309.7571428571428,
+        "jamPercent": 82.72114285714287,
+        "stoppedPercent": 53.20971428571427,
+        "speedStd": 0.9646283352978304,
+        "travelTime5kmMin": 15.270006435216999
+      },
+      {
+        "density": 0.6,
+        "avShare": 0.5,
+        "avgSpeedKmh": 13.342510714285714,
+        "flowPerHour": 1067.4008571428571,
+        "jamPercent": 90.78269841269844,
+        "stoppedPercent": 62.48210317460317,
+        "speedStd": 0.7407311788788904,
+        "travelTime5kmMin": 22.48452382195148
+      },
+      {
+        "density": 0.7,
+        "avShare": 0.5,
+        "avgSpeedKmh": 8.751563265306148,
+        "flowPerHour": 816.8125714285715,
+        "jamPercent": 96.0266666666666,
+        "stoppedPercent": 72.1580612244898,
+        "speedStd": 0.5682109848884835,
+        "travelTime5kmMin": 34.279589932154295
+      }
+    ]
+  },
+  "avSweepData": [
+    {
+      "density": 0.28,
+      "avShare": 0,
+      "avgSpeedKmh": 38.84127790178571,
+      "flowPerHour": 1450.074375,
+      "jamPercent": 60.339905753968196,
+      "stoppedPercent": 36.9437003968254,
+      "speedStd": 1.442393240698513,
+      "travelTime5kmMin": 7.723741756349568
+    },
+    {
+      "density": 0.28,
+      "avShare": 0.05,
+      "avgSpeedKmh": 39.75594308035715,
+      "flowPerHour": 1484.221875,
+      "jamPercent": 59.42441716269834,
+      "stoppedPercent": 36.21899801587307,
+      "speedStd": 1.4555564097637677,
+      "travelTime5kmMin": 7.546041591658929
+    },
+    {
+      "density": 0.28,
+      "avShare": 0.1,
+      "avgSpeedKmh": 40.31106026785714,
+      "flowPerHour": 1504.94625,
+      "jamPercent": 58.952628968253926,
+      "stoppedPercent": 36.74572172619048,
+      "speedStd": 1.4804157477802657,
+      "travelTime5kmMin": 7.442126255339685
+    },
+    {
+      "density": 0.28,
+      "avShare": 0.15,
+      "avgSpeedKmh": 41.19572544642856,
+      "flowPerHour": 1537.97375,
+      "jamPercent": 57.85918898809521,
+      "stoppedPercent": 35.1305803571429,
+      "speedStd": 1.4736628406333256,
+      "travelTime5kmMin": 7.282308947080535
+    },
+    {
+      "density": 0.28,
+      "avShare": 0.2,
+      "avgSpeedKmh": 42.32429129464286,
+      "flowPerHour": 1580.1068750000002,
+      "jamPercent": 56.708023313492085,
+      "stoppedPercent": 34.06913442460326,
+      "speedStd": 1.4843129201587415,
+      "travelTime5kmMin": 7.088128136902131
+    },
+    {
+      "density": 0.28,
+      "avShare": 0.3,
+      "avgSpeedKmh": 43.98475446428572,
+      "flowPerHour": 1642.0975,
+      "jamPercent": 54.74882192460316,
+      "stoppedPercent": 32.52008928571433,
+      "speedStd": 1.4936227020437487,
+      "travelTime5kmMin": 6.820545065076829
+    },
+    {
+      "density": 0.28,
+      "avShare": 0.5,
+      "avgSpeedKmh": 48.60179129464287,
+      "flowPerHour": 1814.466875,
+      "jamPercent": 49.54780505952381,
+      "stoppedPercent": 28.12487599206341,
+      "speedStd": 1.5092565190176401,
+      "travelTime5kmMin": 6.17261199656786
+    },
+    {
+      "density": 0.28,
+      "avShare": 1,
+      "avgSpeedKmh": 64.37263392857143,
+      "flowPerHour": 2403.2449999999994,
+      "jamPercent": 26.89099702380937,
+      "stoppedPercent": 9.045138888888877,
+      "speedStd": 1.2778551284913249,
+      "travelTime5kmMin": 4.660365464195285
+    }
+  ],
+  "innerCityData": [
+    {
+      "density": 0.32,
+      "avShare": 0,
+      "avgSpeedKmh": 30.868330078125002,
+      "flowPerHour": 1317.0487500000002,
+      "jamPercent": 63.83333333333333,
+      "stoppedPercent": 38.81266276041666,
+      "speedStd": 1.1096810684514613,
+      "travelTime5kmMin": 9.718698719390607
+    },
+    {
+      "density": 0.32,
+      "avShare": 0.1,
+      "avgSpeedKmh": 32.4025048828125,
+      "flowPerHour": 1382.5068749999998,
+      "jamPercent": 61.67228190104167,
+      "stoppedPercent": 36.07421875,
+      "speedStd": 1.108725631422202,
+      "travelTime5kmMin": 9.258543470172617
+    },
+    {
+      "density": 0.32,
+      "avShare": 0.2,
+      "avgSpeedKmh": 33.72611572265625,
+      "flowPerHour": 1438.9809374999998,
+      "jamPercent": 59.66276041666666,
+      "stoppedPercent": 34.76220703125,
+      "speedStd": 1.1231764433100682,
+      "travelTime5kmMin": 8.895183852982763
+    },
+    {
+      "density": 0.32,
+      "avShare": 0.5,
+      "avgSpeedKmh": 39.067866210937495,
+      "flowPerHour": 1666.8956249999999,
+      "jamPercent": 51.749755859375,
+      "stoppedPercent": 27.43269856770833,
+      "speedStd": 1.124904495694019,
+      "travelTime5kmMin": 7.678945104916213
+    }
+  ]
+}
